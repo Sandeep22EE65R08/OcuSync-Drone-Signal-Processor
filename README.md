@@ -16,7 +16,9 @@ The project consists of the following key processing steps:
 ### ✅ Step 1: Spectrogram Visualization
 - **Objective**: Generate time-frequency spectrograms of complex baseband signals.
 - **Notebook**: `01_spectrogram_viewer.ipynb`
-- **Data**: `/home/sandeep/OS1_40msps_2.455_GHz__20240522-113218.dat`, `/home/sandeep/ocusync2_50msps.dat`, `/home/sandeep/OS3_40msps_2.455_GHz__20240520-145718.dat`
+- **Data**:  "1": ("/home/sandeep/Ocusync1_40msps.dat", 40e6),
+    "2": ("/home/sandeep/Ocusync2_50msps.dat", 50e6),
+    "3": ("/home/sandeep/Ocusync3_40msps.dat", 40e6),
 - **Highlights**: Interactive CLI to select files and plot spectrograms using `matplotlib.specgram`.
 
 ### ✅ Step 2: PSD Analysis using Welch's Method
