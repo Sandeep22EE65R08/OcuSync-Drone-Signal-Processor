@@ -86,9 +86,9 @@ The project consists of the following key processing steps:
 
 | Index | File Path                                                                 | Sample Rate |
 |-------|---------------------------------------------------------------------------|--------------|
-| 1     | `/home/sandeep/OS1_40msps_2.455_GHz__20240522-113218.dat`                | 40 MSps      |
-| 2     | `/home/sandeep/ocusync2_50msps.dat`                                      | 50 MSps      |
-| 3     | `/home/sandeep/OS3_40msps_2.455_GHz__20240520-145718.dat`                | 40 MSps      |
+| 1     | `/home/sandeep/Ocusync1_40msp.dat`                                        | 40 MSps      |
+| 2     | `/home/sandeep/Ocusync2_50msps.dat`                                       | 50 MSps      |
+| 3     | `/home/sandeep/Ocusync3_40msps.dat`                                       | 40 MSps      |
 
 All notebooks allow selection of the dataset using numeric index (1, 2, 3).
 
