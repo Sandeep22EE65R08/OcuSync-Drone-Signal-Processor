@@ -1,3 +1,8 @@
+author: Sandeep kumar
+
+# jupyter notebook
+
+
 # OcuSync-Drone-Signal-Processor
 developed DSP pipeline for ocusync drone signal
 
@@ -144,6 +149,5 @@ MIT License
 
 ---
 
-For questions, suggestions, or collaborations, please contact: **sandeep**
 
 
